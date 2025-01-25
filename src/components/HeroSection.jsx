@@ -33,7 +33,7 @@ const HeroSection = () => {
           </div>
   
           {/* Right Side: Image */}
-          <div className="relative md:w-[50%] w-full mt-10 md:mt-7 md:-mr-[6rem]">
+          <div className="relative md:w-[50%] w-full mt-10 md:mt-7 lg:-mr-[6rem]">
             <img
               src="../../image.svg"
               alt="SuperMetrics Google Workspace Integration"
