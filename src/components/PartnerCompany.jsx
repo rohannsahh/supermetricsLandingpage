@@ -1,4 +1,3 @@
-import 'non.geist/mono';
 
 const PartnerCompany = () => {
   const partners = [
@@ -29,17 +28,15 @@ const PartnerCompany = () => {
 
 
 
-      {/* Bottom-Right Corner Design */}
       <img
         src="../../corner.svg"
         alt="Corner Design"
         className="absolute bottom-0 right-[7.5rem] transform translate-x-1/2 translate-y-1/2"
       />
 
-      <div className="max-w-7xl py-20 border-x mx-auto px-9">
+      <div className="max-w-7xl py-[5.5rem] border-x mx-auto px-9">
         <h2
-          className="text-center text-xl/8 font-normal text-[#697586] mb-12"
-          style={{ fontFamily: 'Geist Mono Variable' }}
+          className="text-center text-[1.4rem]/8 font-normal font-mono text-[#697586] mb-12"
         >
           Trusted by 5000+ marketing professionals
         </h2>

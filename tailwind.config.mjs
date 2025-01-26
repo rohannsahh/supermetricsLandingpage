@@ -4,9 +4,10 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				sans: ["Geist", "sans-serif"],
+				sans: ["Geist Variable", "sans-serif"],
+				mono:["Geist Mono Variable" , "monospace"],
 			  },
-		},
+					  },
 		
 	},
 	plugins: [],

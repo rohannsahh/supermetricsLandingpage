@@ -18,7 +18,7 @@ const HeroSection = () => {
               accounts directly in Google Sheets, Slides, and everywhere else.
             </p>
             <div className="mt-9 flex justify-center md:justify-start space-x-4">
-              <button className="bg-[#1B91F0] flex items-center text-white px-6 py-3 rounded-xl font-medium shadow-md hover:bg-blue-700 shadow-[#1B91F0]/50">
+              <button className="bg-[#1B91F0] flex items-center text-white px-7 py-3 rounded-xl font-medium shadow-md hover:bg-blue-700 shadow-[#1B91F0]/50">
                 Install Now
                 <span className="ml-2">
                   <svg width="19" height="18" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -26,7 +26,7 @@ const HeroSection = () => {
                   </svg>
                 </span>
               </button>
-              <button className="bg-white border border-gray-300 px-6 py-3 rounded-xl font-medium shadow hover:bg-gray-100">
+              <button className="bg-white border border-gray-300 px-7 py-3 rounded-xl font-medium shadow hover:bg-gray-100">
                 Learn More
               </button>
             </div>
